@@ -1,5 +1,7 @@
 
-import ylog.base as base
+from .base import Log
+from .base import InvalidLogLevelException
 
-InvalidLogLevelException = base.InvalidLogLevelException
-Log = base.Log
+
+__version__ = '0.1.0'
+VERSION = __version__
