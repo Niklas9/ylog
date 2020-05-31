@@ -1,0 +1,2 @@
+nose  # unit testing framework
+coverage  # unit test coverage lib
