@@ -2,13 +2,17 @@
 ylog is a versitile yet minimalistic Python logging client for cloud and 
 on-prem environments.
 
-## Getting started
-*Project is not ready for use*
+Motivation for ylog's existence is that, even as surprising as it may sound,
+lack of an efficient yet versitile enough logging client to be reused between
+different projects and hosting enviroments.
+In 2020. Hence the name, yolo logging. 
 
+## Getting started
+*Project is not ready for use, still work in progress*
 
 Install with pip:
 ```
-	pip install ylog
+pip install ylog
 ```
 
 Example usage:
